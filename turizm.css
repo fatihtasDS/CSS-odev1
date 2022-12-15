@@ -1,0 +1,28 @@
+body{
+    background-color: papayawhip;
+    text-align: center;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    color: palevioletred;
+}
+h2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: red;
+}
+h3>a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-position: inside ;
+    list-style-type: none;
+    display: inline;
+}
+
+
